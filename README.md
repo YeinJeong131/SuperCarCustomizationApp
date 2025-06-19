@@ -73,4 +73,8 @@ Through this project, the following concepts were practiced:
 - Loop control and input validation
 
 ## 📸 Screenshots
+![Program Output 1](https://github.com/YeinJeong131/SuperCarCustomizationApp/blob/main/Pro1Project1Picture1.png?raw=true)
+
+![Program Output 2](https://github.com/YeinJeong131/SuperCarCustomizationApp/blob/main/Pro1Project1Picture2.png?raw=true)
+
 
