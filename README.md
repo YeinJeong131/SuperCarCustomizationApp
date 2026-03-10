@@ -9,19 +9,19 @@ This project was developed for learning basic **Object-Oriented Programming (OOP
 - ArrayList usage for object management
 - User interaction via console input
 
-## 📜 Project Purpose
+## Project Purpose
 
 This application was created as a personal learning project for mastering OOP fundamentals in Java.  
 It was designed to reinforce understanding of inheritance, class relationships, and interactive program flow, through building a fun supercar customization app.
 
-## 🚗 Features
+## Features
 
 - Select car type: **Sports Car** or **Luxury SUV**
 - View available car models
 - Customize selected car attributes (such as color, speed, interior materials, safety features)
 - Display fully customized car details
 
-## 🏛 Class Structure
+## Class Structure
 
 ### SuperCar (Parent Class)
 - Attributes: `brand`, `model`, `price`, `topSpeed`, `exteriorColor`, `interiorColor`
@@ -40,19 +40,19 @@ It was designed to reinforce understanding of inheritance, class relationships, 
 - Stores car lists using `ArrayList`
 - Provides methods for user interaction, input validation, and customization logic
 
-## 🔄 Program Flow
+## Program Flow
 
 1. User selects car type (**Sports Car** / **Luxury SUV**)
 2. User selects a specific car model from the list
 3. User customizes the car attributes
 4. Customized car details are displayed
 
-## 🌳 Inheritance Hierarchy
+## Inheritance Hierarchy
 SuperCar <br />
 ├── SportsCar <br />
 └── LuxurySUV
 
-## 💻 How to Run
+## How to Run
 
 1. Compile Java files:
     ```bash
@@ -63,7 +63,7 @@ SuperCar <br />
     java -cp src Project
     ```
 
-## 🌟 Learning Outcomes
+## Learning Outcomes
 
 Through this project, the following concepts were practiced:
 - Java class design and relationships
@@ -72,7 +72,7 @@ Through this project, the following concepts were practiced:
 - Console-based user interaction with if-else and switch statements
 - Loop control and input validation
 
-## 📸 Screenshots
+## Screenshots
 ![Program Output 1](https://github.com/YeinJeong131/SuperCarCustomizationApp/blob/main/Pro1Project1Picture1.png?raw=true)
 
 ![Program Output 2](https://github.com/YeinJeong131/SuperCarCustomizationApp/blob/main/Pro1Project1Picture2.png?raw=true)
